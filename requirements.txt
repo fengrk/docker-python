@@ -37,7 +37,7 @@ cached-property==1.4.2
 candybar==0.1.5
 captcha==0.2.4
 cchardet==2.1.1
-celery==4.1.0
+celery==5.2.2
 celery-redbeat==0.11.0
 celery-with-redis==3.0
 certifi==2017.4.17
