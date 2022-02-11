@@ -250,7 +250,7 @@ torndsession==1.1.5.1
 traitlets==4.3.2
 transaction==2.1.2
 tushare==0.8.4
-Twisted==17.5.0
+Twisted==22.1.0
 tzlocal==1.4
 ua-parser==0.8.0
 Unidecode==0.4.20
