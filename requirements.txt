@@ -145,7 +145,7 @@ oss2==2.3.3
 packaging==16.8
 paho-mqtt==1.2
 pandas==0.21.0
-paramiko==2.4.2
+paramiko==2.10.1
 parsel==1.2.0
 parso==0.1.1
 pbr==4.2.0
