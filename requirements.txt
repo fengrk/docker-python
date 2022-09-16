@@ -114,7 +114,7 @@ kombu==4.1.0
 lockfile==0.12.2
 lxml==3.8.0
 m3u8==0.3.7
-Mako==1.0.6
+Mako==1.2.2
 mantisconnect==0.1.0
 Markdown==2.6.8
 MarkupSafe==1.0
